@@ -1,8 +1,9 @@
 {
-  "name": "unsmile",
+  "name": "smile-tool",
   "version": "0.0.1",
   "description": "Deserializes Smile format to JSON",
-  "main": "index.js",
+  "main": "lib/",
+  "bin": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
